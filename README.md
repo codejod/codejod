@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ogbodo Joseph 
-- I am a passionate (junor) frontend Developer/ Engineer
+- I am a passionate (junior) frontend Developer/ Engineer
 - 👀 I’m actively open to a junior role
-- 🌱 I’m currently learning Solfwae Engineering on ALX  
+- 🌱 I’m currently learning Solfware Engineering on ALX  
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me codejod@gmail.com
 
